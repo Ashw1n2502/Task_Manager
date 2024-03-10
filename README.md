@@ -12,5 +12,5 @@
 > It checks the user against a user.txt file and logs in if it can find the user.
 > It displays a menu and the user can select the desired option as shown below.
 >
-> ![Screenshot](https://github.com/Ashw1n2502/finalCapstone/BYB_5_Capstone.png)
+> ![Screenshot](BYB_5_Capstone.png)
 > 
