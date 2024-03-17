@@ -1,4 +1,4 @@
-# Final Capstone Project
+# Task Manager Application
 
 > This project is designed as a task manager.
 > Where the user logs in and adds tasks to other users or themselves.
